@@ -16,7 +16,7 @@ Description for each projects are available in the [projectDiscreption](https://
 
 
 ### New to flutter?
-   Don't worry there is a [introduction](https://github.com/rosetanya898/SheHacks/tree/main/introduction) folder persent, which helps you to get basic idea of flutter
+   Don't worry there is an [introduction](https://github.com/rosetanya898/SheHacks/tree/main/introduction) folder persent, which helps you to get basic idea of flutter
 
    **For installation look [installation.md](https://github.com/rosetanya898/SheHacks/blob/main/introduction/Installation.md) file.**
 
