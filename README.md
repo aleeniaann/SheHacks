@@ -1,7 +1,9 @@
 # Hey there...
 ## Are you ready to get started with flutter?
 
-##### Great!! Let's get started
+### Great!! Let's get started
+
+
 You have **4 project ideas** available
 - 2 of beginner level
 - 1 of intermediate level
@@ -11,10 +13,14 @@ You have **4 project ideas** available
 Description for each projects are available in the [projectDiscreption](https://github.com/rosetanya898/SheHacks/tree/main/projectDiscreption) folder.<br>It's upto you to choose _one_.<br>
 
 
+
+
 ### New to flutter?
    Don't worry there is a [introduction](https://github.com/rosetanya898/SheHacks/tree/main/introduction) folder persent, which helps you to get basic idea of flutter
 
    **For installation look [installation.md](https://github.com/rosetanya898/SheHacks/blob/main/introduction/Installation.md) file.**
+
+
 
 
 
@@ -24,5 +30,7 @@ Description for each projects are available in the [projectDiscreption](https://
 - Submit your daily submition form **honestly**
 
 - **Connect with your mentors if stuck**<br>
+
+
 Make sure to bring out your creativeness in app with all the enthusiasm from the beginning till the end of whole SheHacks event.<br>
 Happy Learning!!
