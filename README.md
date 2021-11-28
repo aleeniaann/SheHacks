@@ -1,6 +1,8 @@
 # Hey there...
 ## Are you ready to get started with flutter?
 
+![flutter](https://rawtechworld.com/rawtechworld/wp-content/uploads/2020/10/flutter_banner-768x382.png)
+
 ### Great!! Let's get started
 
 
