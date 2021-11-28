@@ -1,4 +1,4 @@
-# Beginner
+# Beginner 2
 
 ## __Create a UI of a furniture app__
 <br>
