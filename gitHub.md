@@ -32,6 +32,6 @@ git push
 ```
 ### Strictly follow..
 - All the team members should have your own gitHub account
-- Everyone in the team sould be contributing to the main repository
+- Everyone in the team should be contributing to the main repository
 
 ### Still don't understand? Try googling and ask your assigned mentors
