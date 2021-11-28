@@ -36,4 +36,4 @@ With the execution of this command, it will check your environment and display t
 ✗ Android SDK is missing command line tools, [download]https://goo.gl/XxQghQ)
 
 - Try re-installing or updating your Android SDK,
-visit [installation]https://flutter.dev/setup/#android-setup) for detailed instructions.```
+visit [installation]https://flutter.dev/setup/#android-setup) for detailed instructions.
