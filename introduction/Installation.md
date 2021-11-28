@@ -31,9 +31,12 @@ Now, run the following command from a console window with the Flutter directory 
 `C:\flutter> flutter doctor`
 With the execution of this command, it will check your environment and display the Flutter installation status. Find out the below results for any additional applications you are required to install or further tasks to complement.
 
-```[-] Android toolchain - develop for Android devices
+```
+[-] Android toolchain - develop for Android devices
 - Android SDK at C:\Android\sdk
 ✗ Android SDK is missing command line tools, [download]https://goo.gl/XxQghQ)
 
 - Try re-installing or updating your Android SDK,
 visit [installation]https://flutter.dev/setup/#android-setup) for detailed instructions.
+```
+**Start coding 
