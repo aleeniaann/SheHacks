@@ -39,4 +39,4 @@ With the execution of this command, it will check your environment and display t
 - Try re-installing or updating your Android SDK,
 visit [installation]https://flutter.dev/setup/#android-setup) for detailed instructions.
 ```
-**Start coding 
+**Start coding**
