@@ -12,7 +12,7 @@ You have **4 project ideas** available
 - 1 of advanced level 
 
 
-Description for each projects are available in the [projectDiscreption](https://github.com/rosetanya898/SheHacks/tree/main/projectDiscreption) folder.<br>It's upto you to choose _one_.<br>
+Description for each projects are available in the [projectDiscreption](https://github.com/rosetanya898/SheHacks/tree/main/projectDescreption) folder.<br>It's upto you to choose _one_.<br>
 
 
 
